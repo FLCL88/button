@@ -1,2 +1,2 @@
 # button
-Vanilla JS 
+HTML, CSS, and Vanilla JS practice project
